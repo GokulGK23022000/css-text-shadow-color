@@ -1,0 +1,84 @@
+h1{
+	color:red;
+}
+h2{
+	background-color:blue;
+	border-bottom: red solid;
+	border-left: yellow dashed;
+	border-top:red double;
+	border-right:dotted;
+}
+	
+#right{
+	text-align:right;
+}
+#left{
+	text-align:left;
+}
+#center{
+	text-align:center;
+}
+#justify{
+	text-align:justify;
+}
+.ryt{
+	text-align-last:right;
+}
+.left{
+	text-align-last:left;
+}
+.center{
+	text-align-last:center;
+}
+.justify{
+	text-align-last:justify;
+}
+.Direction{
+	direction:rtl;
+	unicode-bidi:bidi-override;
+}
+.vertical{
+	vertical-align:red;
+}
+
+.decor{
+	text-decoration-line:overline;
+	text-decoration-color:blue;
+	text-decoration-thickness:10px;
+}
+
+.style{
+	text-decoration:dashed overline yellow;
+}
+.thick{
+	text-decoration:line-through red 5px;
+}
+.transformation{
+	text-transform:uppercase;
+}
+.transform2{
+	text-transform:lowercase;
+}
+.transform3{
+	text-transform:capitalize;
+}
+.space1{
+	text-indent:40px;
+}
+.space2{
+	letter-spacing:10px;
+}
+.space3{
+	line-height:60px;
+}
+.space4{
+	white-space:nowrap;
+}
+.shadow{
+	text-shadow:10px 15px 5px #ff0000, -15px -20px 7px #0000ff;
+}
+.box{
+	border:10px solid MediumSeaGreen;
+	box-shadow:20px 25px 7px 10px red;
+	box-shadow:20px 25px 7px 10px red;
+}
